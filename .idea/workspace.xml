@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66bf34c2-f35b-4be8-af26-325672fc1a9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/graphql/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/graphql/db.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphql/resolvers.js" beforeDir="false" afterPath="$PROJECT_DIR$/graphql/resolvers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphql/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/graphql/schema.graphql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +34,7 @@
       <updated>1602742034956</updated>
       <workItem from="1602742037369" duration="161000" />
       <workItem from="1602742567127" duration="19000" />
-      <workItem from="1602745141228" duration="1143000" />
+      <workItem from="1602745141228" duration="3174000" />
     </task>
     <servers />
   </component>
